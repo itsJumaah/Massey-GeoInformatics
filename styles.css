@@ -1,0 +1,309 @@
+/*
+Design by Free Flash Templates
+http://www.flash-templates-today.com
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+* {
+	margin:0;
+	padding:0;
+}
+body  {
+	font-family: 'Arvo', serif;
+	font-size: 14px;
+	background: url(images/siteBackground.png) repeat;
+	margin: 0; 
+	padding: 0;
+	color: #707070;
+}
+#masseylogo {
+	width: 130px;
+	height: auto;
+}
+#h1title {
+	font-family: adamina;
+	font-style: normal;
+	font-weight: 400;
+	color: rgba(15,77,139,1.00);
+	font-size: 60px;
+}
+#h2title {
+	font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;
+	color: rgba(228,160,38,1.00);
+	font-size: 35px;
+}
+
+.headerimg {
+	width: 960px;
+	height:300px;
+}
+h2, h3 {
+	color:#d01818;
+	padding:10px 0 20px 0;
+}
+#container { 
+	width: 960px;
+	margin: 0 auto;
+} 
+#header { 
+}
+#header h1 {
+	float:left;
+	padding:20px 0 20px 15px;
+} 
+#header h1 a {
+	color: #0F4D8B;
+	font-size:48px;
+	text-decoration:none;
+}
+
+#header h1 span {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+#header h1 a:hover {
+	color: #0F4D8B;
+	font-size: 36px;
+	text-decoration: none;
+	text-align: left;
+	font-family: alegreya;
+	font-style: normal;
+	font-weight: 400;
+}
+#header .submenu {
+
+}
+#header .submenu ul {
+	padding:42px 15px 0 0;
+}
+#header .submenu li {
+	list-style: none;
+	float: left;
+	text-align: right;
+}
+#header .submenu li a {
+	font-size:12px;
+	text-transform: none;
+	border:none;
+	padding:0 0 0 20px;
+	color:#707070;
+	text-decoration:none;
+}
+#header .submenu li a:hover {
+	color:#d01818;
+	background:none;
+}
+#contentBody {
+}
+
+#footercontainer {
+	background-color: rgba(15,77,139,1.00);
+	margin: 0;
+	
+	width: 960px;
+	text-align: center;
+	padding:17px 0;
+	height:100px;
+	
+	
+}
+.pf_postnomtitle {
+	font-size: 6px;
+	color:rgba(15,77,139,0.50);
+}
+#staffname {
+	font-size: 8px;
+	color: rgba(15,77,139,1.00);
+}
+#stafftitle {
+	font-size: 11px;
+	color: rgba(0,0,0,1.00);
+}
+#staffjob {
+	font-size: 11px;
+	color: black;
+}
+#staffjob h2{
+	margin: 0px;
+    padding: 0px;
+	padding-left:3em;
+	font-size: 11px;
+	color: black;
+}
+#staffjob p{
+	
+	margin: 0px;
+   padding: 0px;
+   padding-left:3em;
+	font-size: 11px;
+}
+
+#footertxt{
+	text-align: center;
+	margin: 0;
+	padding:100px 100px;
+	font-size: 18px;
+	color: white;
+}
+
+#t2{
+	width:959;
+	border: 0px;
+}
+.footerInfoInner {
+	text-align: left;
+	font-size: 11px;
+	color: white;
+	
+}
+
+.footerContact{
+	text-align: left;
+	font-size: 14px;
+	color: white;
+}
+.footerContact a {
+	text-decoration:none;
+	color: white;
+}
+.footerContact a:hover {
+	text-decoration:underline;
+	color: white;
+}
+.footerContact a:visited {
+	text-decoration:none;
+	color: white;
+}
+.footerContact a:active {
+	text-decoration:none;
+	color: white;
+}
+
+.footerInfoInner a {
+	text-decoration:none;
+	color: white;
+}
+.footerInfoInner a:hover {
+	text-decoration:underline;
+	color: white;
+}
+.footerInfoInner a:visited {
+	text-decoration:none;
+	color: white;
+}
+.footerInfoInner a:active {
+	text-decoration:none;
+	color: white;
+}
+#engine{
+	width: 200px;
+	height: auto;
+}
+
+.threeBoxes {
+	background:#e4a026;
+	padding:7px;
+}
+.buttonLink {
+	background:#d01818;
+	color:#ffffff;
+	padding:5px 10px;
+	margin:10px 0;
+	display:inline-block;
+	text-decoration:none;
+	border-bottom:2px solid #b00404;
+}
+.box {
+	float:left;
+	width:25%;
+	padding:0 35px;
+}
+.solutions {
+	float: left;
+	width: 600px;
+	padding: 10px 35px;
+	font-size: 16px;
+} 
+.links {
+	padding:10px 35px;
+	margin-left:600px;
+}
+.links li {
+	display:block;
+	border:0;
+	background:url(images/p.png) no-repeat left 6px;
+	margin:0 0 0 35px;
+	padding:0 0 10px 7px;
+}
+.links li a {
+	color:#008bce;
+	text-decoration:none;
+}
+.links li a:hover {
+	color:#008bce;
+	text-decoration:underline;
+}
+.picFloat {
+	float:left;
+	padding:0 20px 10px 0;
+}
+#footer { 
+	padding: 0 10px 0 20px;
+	border-top:1px solid #CCCCCC;
+} 
+#footer p {
+	margin: 0;
+	padding: 30px 0;
+	text-align:center;
+}
+#footer a {
+	color:#008bce;
+	text-decoration:underline;
+	font-size:12px;
+}
+#footer a:hover {
+	color:#008bce;
+	text-decoration:none;
+	font-size:12px;
+}
+.clearfloat {
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+/*MAIN MENU*/
+#navcontainer ul {
+	margin: 0;
+	list-style-type: none;
+	color: #FFF;
+	width: 960px;
+	text-align: center;
+	background:url(images/menuBackground.jpg) repeat-x;
+	padding:17px 0;
+	height:18px;
+	
+	
+	
+}
+#navcontainer ul li { 
+	display: inline;
+	float:left; 
+	font-size: 14px;
+	
+}
+#navcontainer ul li a {
+	text-decoration: none;
+	color: #ffffff;
+	padding: 17px 30px;
+	border-right: 1px solid #ffffff;
+	text-transform:uppercase;
+	
+}
+#navcontainer ul li a:hover {
+	background:url(images/menuActive.jpg) repeat-x; /*images/menuActive.jpg*/
+	color:#FFFFFF;
+	font-size: 15px;
+	
+}
+#navlist #active a {
